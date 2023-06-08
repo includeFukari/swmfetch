@@ -16,9 +16,13 @@ cd swmfetch
 * python3 (installation way depends on distro)
 * colorama
 * psutil
+* [any nerd font](https://www.nerdfonts.com/)
 
 ```
-sudo apt install python3
+sudo apt install python3     <= Debian
+sudo dnf install python3     <= Red Hat
+sudo pacman -S python3     <= Arch
+sudo zypper install python3     <= SUSE
 ```
 
 
